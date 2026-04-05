@@ -175,7 +175,7 @@ These decisions were made to create a **professional-grade backend** that not on
 ```bash
 # 1. Clone the repository
 git clone <your-repo-url>
-cd finance-dashboard-backend
+cd finance-backend
 
 # 2. Create virtual environment
 python -m venv venv
