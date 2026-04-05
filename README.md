@@ -62,6 +62,8 @@ I've built a complete, clean, and fully functional backend that meets the **requ
 ---
 
 ## Project Structure
+
+```bash
 finance-dashboard-backend/
 ├── main.py                 # App creation, lifespan, CORS, routers
 ├── database.py             # SQLAlchemy engine & session
@@ -77,10 +79,8 @@ finance-dashboard-backend/
 │   └── dashboard.py
 ├── requirements.txt
 └── finance.db              # Auto-generated SQLite database
+```
 
-
-
----
 
 ## Code Documentation
 
